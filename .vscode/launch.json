@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HelloApplication",
+            "request": "launch",
+            "mainClass": "HelloApplication"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayTest4",
             "request": "launch",
             "mainClass": "ArrayTest4"
