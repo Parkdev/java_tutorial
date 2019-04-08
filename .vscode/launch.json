@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run_Electronics",
+            "request": "launch",
+            "mainClass": "Run_Electronics"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interface",
+            "request": "launch",
+            "mainClass": "Interface"
+        }
+    ]
+}
